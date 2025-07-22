@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: dimsum-laravel
+    env: docker
+    plan: free
+    branch: main
+    rootDir: .
