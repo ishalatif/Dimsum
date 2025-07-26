@@ -73,8 +73,8 @@
   <section id="kontak" class="bg-light py-5">
   <div class="text-center px-3">
     <h2 class="mb-4">Kontak Kami</h2>
-    <p>📍 Alamat: Jl. Lezat No. 99, Surabaya</p>
-    <p>📞 Telepon: 0812-3456-7890</p>
+    <p>📍 Alamat: Hasbanna Land Blok A22 Sukodono</p>
+    <p>📞 Telepon: 085812796915</p>
     <p>📱 Instagram: <a href="https://instagram.com/dimsumlezat" target="_blank">@dimsumlezat</a></p>
   </div>
 </section>
